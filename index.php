@@ -154,7 +154,7 @@
                         <h3>Addition: <?= $sum ?></h3>
                         <h3>Subtraction: <?= $difference ?></h3>
                         <h3>Multiplication: <?= $product ?></h3>
-                        <h3>Quotient: <?= $quotient ?></h3>
+                        <h3>Division: <?= $quotient ?></h3>
                     </div>
                 </div>
             </div>
